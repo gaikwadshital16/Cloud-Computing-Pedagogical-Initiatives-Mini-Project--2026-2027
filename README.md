@@ -10,4 +10,4 @@ Give Name repo in this format RollNo-StudentName(Individual)-ProjectName
 
 ### 2. Create Your Project Folder
 
-In that folder PPT, Report(softcopy + hardcopy), Source Code
+In that folder PPT, Report(softcopy + hardcopy), Source Code and student Photos
